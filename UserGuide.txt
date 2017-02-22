@@ -1,0 +1,23 @@
+// ~*~*~*~* HIP-HOP AQUARIUM *~*~*~*~
+
+// Welcome to Hip-Hop Aquarium, a fun,
+// single-player campaign in which the
+// player adventures to the top of the
+// rap food chain. Become the apex
+// emcee your mother always knew you
+// could be!
+
+// Consume rappers smaller than
+// yourself in order to grow and gain
+// points. You win if you can become
+// the hottest rapper in the pond!
+// However, take care to avoid being
+// bodied yourself . . .
+// if you are, GAME OVER!
+
+// ~*~*~*~* CONTROLS *~*~*~*~
+// LEFT_ARROW:    move left
+// RIGHT_ARROW:   move right
+// UP_ARROW:      move up
+// DOWN_ARROW:    move down
+// X:             end the game
